@@ -1,3 +1,5 @@
+![image](https://github.com/Thongtdextra/rby_pico_btn_control_led/assets/163829013/d1d6d85d-1763-4094-be9f-6a4cbab34f09)
+connect GP10-14 Pinout to button and control ledonboard
 # rby_pico_testingled
 my first time with MCU rby pico, so many problem need all guy solve
 
